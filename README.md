@@ -1,2 +1,0 @@
-# MobileAutoHomeTask02
-MobileAutoHomeTask02
